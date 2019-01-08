@@ -17,7 +17,7 @@ Currently tested on windows10.
 
 
 # Run
-python gr_descent_1x.py
+python normal_eqn_1x.py
 
 
 # Contributions
